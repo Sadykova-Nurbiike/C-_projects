@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1525862942 source:c:\users\user\desktop\my codes\project\main.cpp
+	<iostream>
+	<vector>
+	"fstream"
+	"rental.h"
+	"Infile.h"
+	"Outfile.h"
+
+1525863904 source:c:\users\user\desktop\my codes\project\rental.cpp
+	"rental.h"
+	<iomanip>
+
+1525858437 source:c:\users\user\desktop\my codes\project\car.cpp
+	"car.h"
+	<iomanip>
+
+1525860900 c:\users\user\desktop\my codes\project\car.h
+	<iostream>
+
+1525857015 c:\users\user\desktop\my codes\project\rental.h
+	<iostream>
+	"car.h"
+
+1525863903 source:c:\users\user\desktop\my codes\project\infile.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	"Infile.h"
+
+1525863904 c:\users\user\desktop\my codes\project\infile.h
+	<fstream>
+	"rental.h"
+
+1525690506 source:c:\users\m1yveq\downloads\project\car.cpp
+	"car.h"
+	<iomanip>
+
+1525692988 c:\users\m1yveq\downloads\project\car.h
+	<iostream>
+
+1525777976 source:c:\users\m1yveq\downloads\project\infile.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	"Infile.h"
+
+1525777976 c:\users\m1yveq\downloads\project\infile.h
+	<fstream>
+	"rental.h"
+
+1525694138 c:\users\m1yveq\downloads\project\rental.h
+	<iostream>
+	"car.h"
+
+1525788437 source:c:\users\m1yveq\downloads\project\main.cpp
+	<iostream>
+	<vector>
+	"fstream"
+	"rental.h"
+	"Infile.h"
+
+1525772988 source:c:\users\m1yveq\downloads\project\rental.cpp
+	"rental.h"
+	<iomanip>
+
+1525863904 c:\users\user\desktop\my codes\project\outfile.h
+	"rental.h"
+	<fstream>
+	<string>
+
+1525863904 source:c:\users\user\desktop\my codes\project\outfile.cpp
+	"Outfile.h"
+	<iostream>
+	<iomanip>
+
+1525858437 source:c:\users\user\desktop\my codes\oop project\car.cpp
+	"car.h"
+	<iomanip>
+
+1525860900 c:\users\user\desktop\my codes\oop project\car.h
+	<iostream>
+
+1525863903 source:c:\users\user\desktop\my codes\oop project\infile.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	"Infile.h"
+
+1525863904 c:\users\user\desktop\my codes\oop project\infile.h
+	<fstream>
+	"rental.h"
+
+1525857015 c:\users\user\desktop\my codes\oop project\rental.h
+	<iostream>
+	"car.h"
+
+1525865271 source:c:\users\user\desktop\my codes\oop project\main.cpp
+	<iostream>
+	<vector>
+	"fstream"
+	"rental.h"
+	"Infile.h"
+	"Outfile.h"
+
+1525863904 c:\users\user\desktop\my codes\oop project\outfile.h
+	"rental.h"
+	<fstream>
+	<string>
+
+1525863904 source:c:\users\user\desktop\my codes\oop project\outfile.cpp
+	"Outfile.h"
+	<iostream>
+	<iomanip>
+
+1525863904 source:c:\users\user\desktop\my codes\oop project\rental.cpp
+	"rental.h"
+	<iomanip>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1521533571 source:c:\users\pluzsu\documents\elte\órák\2017-2018_ii\programming\lectures\zh1\coding_test_march26\coding\main.cpp
+	<iostream>
+	"coding.h"
+
+1521535887 c:\users\pluzsu\documents\elte\órák\2017-2018_ii\programming\lectures\zh1\coding_test_march26\coding\coding.h
+	<iostream>
+	<vector>
+
+1522051004 source:c:\users\m1yveq\desktop\coding\main.cpp
+	<iostream>
+	"coding.h"
+
+1522009046 c:\users\m1yveq\desktop\coding\coding.h
+	<iostream>
+	<vector>
+
+1522052457 source:c:\users\m1yveq\desktop\coding\coding.cpp
+	"coding.h"
+	<fstream>
+	<cstdlib>
+	<string>
+

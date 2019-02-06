@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1522264813 source:c:\users\user\desktop\my codes\myproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	"newLibrary.h"
+
+1522263594 c:\users\user\desktop\my codes\myproject\newlibrary.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<string>
+
+1522268311 source:c:\users\user\desktop\my codes\myproject\newlibrary.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<string>
+	<cstdlib>
+	"newLibrary.h"
+

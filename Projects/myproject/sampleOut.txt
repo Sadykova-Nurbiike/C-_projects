@@ -1,0 +1,3 @@
+The index of the youngest employee: 1.
+Number of employees who are 30+ years old and have salary under 150000HUF : 0
+Number of different ages: 4
